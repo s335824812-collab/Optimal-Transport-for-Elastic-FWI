@@ -1,0 +1,9 @@
+{
+  "accepted_iter": 32,
+  "stage_id": 1,
+  "stage_name": "smooth",
+  "smooth_gradient": true,
+  "objective": 1151172.7259714678,
+  "objective_scale": 64715049.7514351,
+  "gradient_post_scale": 31.116285594880807
+}

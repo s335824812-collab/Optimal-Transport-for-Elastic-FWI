@@ -1,0 +1,7 @@
+[
+  {
+    "name": "smooth",
+    "maxiter": 60,
+    "smooth_gradient": true
+  }
+]

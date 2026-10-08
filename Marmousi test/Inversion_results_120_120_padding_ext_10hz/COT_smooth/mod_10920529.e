@@ -1,0 +1,4 @@
+/fs2/home/ymsc_cpu/mambaforge/envs/devito-py310/lib/python3.10/site-packages/dask_jobqueue/core.py:248: FutureWarning: extra has been renamed to worker_extra_args. You are still using it (even if only set to []; please also check config files). If you did not set worker_extra_args yet, extra will be respected for now, but it will be removed in a future release. If you already set worker_extra_args, extra is ignored and you can remove it.
+  warnings.warn(warn, FutureWarning)
+/fs2/home/ymsc_cpu/mambaforge/envs/devito-py310/lib/python3.10/site-packages/dask_jobqueue/core.py:248: FutureWarning: extra has been renamed to worker_extra_args. You are still using it (even if only set to []; please also check config files). If you did not set worker_extra_args yet, extra will be respected for now, but it will be removed in a future release. If you already set worker_extra_args, extra is ignored and you can remove it.
+  warnings.warn(warn, FutureWarning)

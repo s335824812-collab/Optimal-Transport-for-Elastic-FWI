@@ -1,0 +1,7 @@
+[
+  {
+    "name": "unsmooth",
+    "maxiter": 20,
+    "smooth_gradient": false
+  }
+]

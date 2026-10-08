@@ -1,0 +1,12 @@
+{
+  "stage_id": 1,
+  "stage_name": "unsmooth",
+  "maxiter": 20,
+  "smooth_gradient": false,
+  "success": false,
+  "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT",
+  "nit": 20,
+  "nfev": 23,
+  "objective_scale": 2765.507963648809,
+  "gradient_post_scale": 0.0015786175199426018
+}

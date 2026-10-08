@@ -1,0 +1,11 @@
+{
+  "accepted_iter": 41,
+  "stage_id": 2,
+  "stage_name": "alpha_4e-3",
+  "smooth_gradient": true,
+  "ot_alpha": 0.004,
+  "ot_beta": 5.0,
+  "objective": 3132422.8377744234,
+  "objective_scale": 64699857.62292554,
+  "gradient_post_scale": 32.145788607829424
+}

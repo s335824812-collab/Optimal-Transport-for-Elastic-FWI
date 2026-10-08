@@ -1,0 +1,14 @@
+{
+  "stage_id": 2,
+  "stage_name": "alpha_4e-3",
+  "maxiter": 30,
+  "smooth_gradient": true,
+  "ot_alpha": 0.004,
+  "ot_beta": 5.0,
+  "success": false,
+  "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT",
+  "nit": 30,
+  "nfev": 39,
+  "objective_scale": 64699857.62292554,
+  "gradient_post_scale": 32.145788607829424
+}

@@ -1,0 +1,22 @@
+{
+  "loss_call": 0,
+  "initial_model": true,
+  "raw_objective": 1.0896746700347226,
+  "after_cutoff": true,
+  "before_gaussian_smoothing": true,
+  "before_scalar_gradient_scaling": true,
+  "stage_id": 1,
+  "stage_name": "smooth",
+  "stage_smooth_gradient": true,
+  "water_layer": 44,
+  "array_shape": [
+    1200,
+    348
+  ],
+  "infinity_norms": {
+    "grad_lam_after_cutoff": 0.10304634224075926,
+    "grad_mu_after_cutoff": 0.7416934139596378,
+    "grad_vs_after_cutoff": 2.146677959491533,
+    "grad_var_after_cutoff": 0.5060073675889529
+  }
+}

@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH -J SlurmC1_hyx
+#SBATCH -p cp6
+#SBATCH -N 1
+#SBATCH -n 1
+#SBATCH -o mod_%j.o 
+#SBATCH -e mod_%j.e 
+
+hostname 
+
+export PYTHONUNBUFFERED=TRUE
+
+cd /fs2/home/ymsc_cpu/homes/heyuxuan/Elastic_fwi/Marmousi_pml_revised_old_model
+
+python Inv_pml_kernel_2.py

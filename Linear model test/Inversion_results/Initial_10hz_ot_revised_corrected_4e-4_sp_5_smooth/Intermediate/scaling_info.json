@@ -1,0 +1,11 @@
+{
+  "auto_scale": true,
+  "objective_scale": 64715049.7514351,
+  "gradient_post_scale": 31.116285594880807,
+  "initial_raw_objective": 0.15452356195983985,
+  "initial_raw_grad_inf": 0.00032137511945337015,
+  "initial_scaled_objective": 10000000.0,
+  "initial_scaled_grad_inf": 0.01,
+  "objective_scale_target": 10000000.0,
+  "gradient_scale_target": 0.01
+}
